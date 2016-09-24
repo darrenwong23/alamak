@@ -1,4 +1,3 @@
 # alamak
-hi there. 
-
+hi there
 
